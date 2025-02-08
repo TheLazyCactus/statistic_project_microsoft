@@ -4,11 +4,10 @@ Tasks I - EDA (Exploratory Data Analysis)
 
 The goal is to analyze the experiment’s performance by understanding the dataset. The workflow includes:
 
-    Dataset Exploration: Use Python libraries like Pandas, Matplotlib, and Seaborn to examine the dataset's structure and clean any issues.
+    Dataset Exploration: Examination of the dataset's structure and cleaning.
     Client Behavior Analysis:
-        Identify the primary users of the online process.
-        Determine whether users are younger or older, new or long-standing.
-        Conduct further analysis to uncover additional behavioral insights.
+        Identification of the primary users of the online process.
+        Determination of age and tenure repartition.
 
 Tasks II - KPIs (Key Performance Indicators)
 
