@@ -17,7 +17,9 @@ Define success metrics for the new design by evaluating:
     Completion Rate: Percentage of users who complete the process.
     Time Spent on Each Step: Average duration per step.
     Error Rates: Frequency of users navigating backward, indicating confusion or issues.
-    Additional KPIs: Identify any other relevant performance indicators.
+
+Tasks III - Hypothesis Testing
+
 
 
 Deliverables:
